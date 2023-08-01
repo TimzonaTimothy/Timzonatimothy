@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am adequate in the prominent skills like HTML, CSS, JavaScript, Python, Django and currently on Web3,different web hosting sectors, basic graphic designing and so on. It is like technical or programming code and my intelligence is two old friends. I believe in diplomacy in the field like the online market
+I am adequate in the prominent skills like HTML, CSS, JavaScript, Python, Django, Solidity, different web hosting sectors, basic graphic designing and so on. It is like technical or programming code and my intelligence is two old friends. I believe in diplomacy in the field like the online market
 
 I am flexible, reliable, self-motivated, responsible, hard working person and possess excellent time keeping skills
