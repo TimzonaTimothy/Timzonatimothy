@@ -4,7 +4,7 @@
 
 Python & Django · Flutter · Solidity. Based in Enugu, Nigeria, working remotely.
 
-[Portfolio](https://arinzetimothy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arinze-timothy/) · [X](https://twitter.com/arizona_timothy) · [Email](mailto:arinzetymothy@gmail.com)
+[Portfolio](https://arinzetimothy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arinze-timothy/) · [X](https://twitter.com/arizona_timothy) · [Email](mailto:arizonatymothy@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -35,4 +35,4 @@ More projects, write-ups and demos on my [portfolio](https://arinzetimothy.verce
 
 ## Get in touch
 
-Have a project in mind or a role to fill? Email me at [arinzetymothy@gmail.com](mailto:arinzetymothy@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/arinze-timothy/).
+Have a project in mind or a role to fill? Email me at [arinzetymothy@gmail.com](mailto:arizonatymothy@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/arinze-timothy/).
