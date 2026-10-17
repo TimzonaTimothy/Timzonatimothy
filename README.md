@@ -29,10 +29,10 @@ More projects, write-ups and demos on my [portfolio](https://arinzetimothy.verce
 ## Tech
 
 - **Backend:** Python, Django, REST APIs, PostgreSQL, Docker
-- **Mobile:** Flutter, Dart, GetX, Bloc, Riverpod Firebase
+- **Mobile:** Flutter, Dart, GetX, Bloc, Riverpod, Firebase
 - **Blockchain:** Solidity, Hardhat, OpenZeppelin, Web3
 - **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS
 
 ## Get in touch
 
-Have a project in mind or a role to fill? Email me at [arinzetymothy@gmail.com](mailto:arizonatymothy@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/arinze-timothy/).
+Have a project in mind or a role to fill? Email me at [arizonatymothy@gmail.com](mailto:arizonatymothy@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/arinze-timothy/).
