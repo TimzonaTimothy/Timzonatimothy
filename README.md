@@ -29,7 +29,7 @@ More projects, write-ups and demos on my [portfolio](https://arinzetimothy.verce
 ## Tech
 
 - **Backend:** Python, Django, REST APIs, PostgreSQL, Docker
-- **Mobile:** Flutter, Dart, GetX, Firebase
+- **Mobile:** Flutter, Dart, GetX, Bloc, Riverpod Firebase
 - **Blockchain:** Solidity, Hardhat, OpenZeppelin, Web3
 - **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS
 
